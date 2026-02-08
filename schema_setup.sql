@@ -21,6 +21,7 @@ ALTER TABLE businesses ADD COLUMN raw_properties JSONB;
 ALTER TABLE businesses ADD COLUMN last_updated TIMESTAMP DEFAULT NOW();
 ALTER TABLE public.businesses ADD COLUMN average_rating NUMERIC;
 ALTER TABLE businesses ADD COLUMN confidence_score FLOAT DEFAULT 0.5;
+ALTER TABLE businesses ADD COLUMN opening_hours TEXT;
 
 
 -- This assigns a realistic random rating to all businesses
@@ -32,7 +33,7 @@ SELECT column_name
 FROM information_schema.columns 
 WHERE table_name = 'businesses';
 
-TRUNCATE TABLE businesses RESTART IDENTITY;
+
 
 -- Check how many businesses are enriched
 SELECT COUNT(*) FROM businesses WHERE description IS NOT NULL;
