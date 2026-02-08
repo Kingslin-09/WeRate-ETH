@@ -1,0 +1,2664 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-02-07T20:58:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/500129236",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "00184",
+        "addr:street": "Piazza della Madonna dei Monti",
+        "amenity": "cafe",
+        "name": "La Bottega del Caffè",
+        "operator": "Zaro Srl. unipersonale",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 4741578",
+        "ref:vatin": "IT08516811000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4910693,
+          41.8949549
+        ]
+      },
+      "id": "node/500129236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/574326909",
+        "amenity": "cafe",
+        "name": "Il Faraone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4910764,
+          41.8947982
+        ]
+      },
+      "id": "node/574326909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1147386907",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "63",
+        "addr:postcode": "00184",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "restaurant",
+        "name": "La Pace del Cervello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4945929,
+          41.8894856
+        ]
+      },
+      "id": "node/1147386907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1147386908",
+        "addr:housenumber": "44",
+        "addr:postcode": "00184",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "cafe",
+        "name": "Cafè Cafè",
+        "website": "www.cafecafebistrot.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4943096,
+          41.8893987
+        ]
+      },
+      "id": "node/1147386908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319030071",
+        "addr:city": "Roma",
+        "addr:housenumber": "53-56",
+        "addr:street": "Via Madonna dei Monti",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "La Pace",
+        "operator": "Wong Chuang Liang & C. s.a.s.",
+        "ref:vatin": "IT03799441005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4905606,
+          41.8944211
+        ]
+      },
+      "id": "node/1319030071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1530298843",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Hostaria Isidoro Al Colosseo",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4986526,
+          41.8888384
+        ]
+      },
+      "id": "node/1530298843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1536870110",
+        "addr:housenumber": "40",
+        "addr:street": "Largo Corrado Ricci",
+        "amenity": "restaurant",
+        "check_date": "2024-07-24",
+        "cuisine": "pizza;italian;regional",
+        "indoor_seating": "yes",
+        "name": "Angelino ai Fori",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4880406,
+          41.8930172
+        ]
+      },
+      "id": "node/1536870110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1536870121",
+        "addr:housenumber": "37",
+        "addr:street": "Largo Corrado Ricci",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizzeria Imperiale",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4882373,
+          41.8931257
+        ]
+      },
+      "id": "node/1536870121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1536870444",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4884336,
+          41.8932216
+        ]
+      },
+      "id": "node/1536870444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1536870463",
+        "addr:housenumber": "29",
+        "addr:street": "Largo Corrado Ricci",
+        "amenity": "cafe",
+        "name": "Gustando Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4885037,
+          41.8932589
+        ]
+      },
+      "id": "node/1536870463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660404843",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Taverna Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4894514,
+          41.8940973
+        ]
+      },
+      "id": "node/1660404843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660412593",
+        "addr:housenumber": "313",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "email": "cavour313@libero.it",
+        "fax": "+39 06 6785496",
+        "name": "Enoteca Cavour 313",
+        "operator": "Enoteca Cavour 313 s.r.l.",
+        "phone": "+39 06 6785496",
+        "ref:vatin": "IT01238481004",
+        "restaurant:type": "enoteca",
+        "website": "https://www.cavour313.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.489126,
+          41.8937195
+        ]
+      },
+      "id": "node/1660412593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1688847325",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "lgbtq": "no",
+        "name": "Gran Caffe Martini & Rossi",
+        "opening_hours": "Mo-Su 08:30-01:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.caffemartiniroma.com/",
+        "website:menu": "https://www.caffemartiniroma.com/restaurant-menu-colosseum/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941649,
+          41.8897129
+        ]
+      },
+      "id": "node/1688847325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1688847351",
+        "addr:housenumber": "5",
+        "addr:street": "Via Celio Vibenna",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "lgbtq": "no",
+        "name": "Al Gladiatore",
+        "outdoor_seating": "no",
+        "phone": "+39 06 77209496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.494046,
+          41.8894459
+        ]
+      },
+      "id": "node/1688847351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1688847355",
+        "addr:housenumber": "1",
+        "addr:postcode": "00184",
+        "addr:street": "Piazza del Colosseo",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@royalartcafe.it",
+        "indoor_seating": "yes",
+        "lgbtq": "no",
+        "name": "Royal art café",
+        "outdoor_seating": "yes",
+        "phone": "+390688805383",
+        "website": "https://www.royalartcafe.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942704,
+          41.8899551
+        ]
+      },
+      "id": "node/1688847355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923912448",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "195",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "contact:phone": "+39 06 4824888",
+        "drive_in": "no",
+        "name": "L'archetto di Cavour",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4935362,
+          41.8951419
+        ]
+      },
+      "id": "node/1923912448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1987857548",
+        "addr:city": "Roma",
+        "addr:housenumber": "7",
+        "addr:postcode": "00184",
+        "addr:street": "Via Celimontana",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Naumachia",
+        "name:ko": "나우마키아",
+        "phone": "+39 06 7002764",
+        "website": "https://www.naumachiaroma.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4965723,
+          41.8890939
+        ]
+      },
+      "id": "node/1987857548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1998779872",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "106",
+        "addr:postcode": "00184",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "description": "Osteria",
+        "name": "I clementini",
+        "source": "GPS",
+        "website": "https://www.iclementini.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4974302,
+          41.8890686
+        ]
+      },
+      "id": "node/1998779872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336909846",
+        "addr:city": "Roma",
+        "addr:housenumber": "245",
+        "addr:postcode": "00185",
+        "addr:street": "Via Merulana",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "microbrewery": "no",
+        "name": "Caffè Brancaccio",
+        "opening_hours": "Mo-Sa 06:30-00:00",
+        "operator": "Merulana 2007 Srl. Unipersonale",
+        "phone": "+06 4874199",
+        "ref:vatin": "IT09644041007",
+        "restaurant:type:it": "ristorante;bar;caffetteria;gelateria;wine_bar;pizzeria",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5008272,
+          41.893658
+        ]
+      },
+      "id": "node/2336909846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2361780469",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "72",
+        "addr:postcode": "00184",
+        "addr:street": "Via Urbana",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Er Caffettiere",
+        "opening_hours": "Mo-Sa 05:30-21:30",
+        "operator": "Sa.Pe. SNC di Spartaco Pelle & C.",
+        "outdoor_seating": "no",
+        "phone": "+39 320 4168532",
+        "ref:vatin": "IT09487221005",
+        "restaurant:type:it": "bar;tavola_calda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4929377,
+          41.894975
+        ]
+      },
+      "id": "node/2361780469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2735002326",
+        "addr:housenumber": "315",
+        "amenity": "restaurant",
+        "name": "Baires Imperiale",
+        "phone": "+39 06 69202164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4888985,
+          41.8936579
+        ]
+      },
+      "id": "node/2735002326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2802085358",
+        "addr:city": "Roma",
+        "addr:housenumber": "15",
+        "addr:postcode": "00184",
+        "addr:street": "Via Claudia",
+        "amenity": "restaurant",
+        "cuisine": "italian;coffee_shop",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Propaganda Italian Cusine",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "phone": "+39 392 1153233",
+        "website": "https://www.propagandaitaliancuisine.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942035,
+          41.8883302
+        ]
+      },
+      "id": "node/2802085358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3052495271",
+        "addr:city": "Roma",
+        "addr:housenumber": "24-24a",
+        "addr:postcode": "00184",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Li Rioni",
+        "website": "http://lirioni.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978334,
+          41.8886879
+        ]
+      },
+      "id": "node/3052495271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3067591006",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "72",
+        "addr:postcode": "00184",
+        "addr:street": "Via delle Terme di Tito",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "bar": "yes",
+        "fax": "+39 06 92595550",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Oppio Caffè",
+        "operator": "Domus s.r.l.",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+39 06 4745262",
+        "ref:vatin": "IT05858481004",
+        "smoking": "outside",
+        "website": "https://www.oppiocaffe.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4927855,
+          41.891496
+        ]
+      },
+      "id": "node/3067591006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3101353149",
+        "addr:city": "Roma",
+        "addr:housenumber": "9",
+        "addr:postcode": "00184",
+        "addr:street": "Via della Madonna dei Monti",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Taverna dei Fori Imperiali",
+        "website": "https://www.latavernadeiforiimperiali.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883814,
+          41.8939729
+        ]
+      },
+      "id": "node/3101353149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3217327590",
+        "addr:city": "Roma",
+        "addr:housenumber": "65",
+        "addr:postcode": "00186",
+        "addr:street": "Via dei Cerchi",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/075zerosettantacinque/",
+        "contact:instagram": "https://www.instagram.com/zerosettantacinque/",
+        "email": "info@075roma.com",
+        "name": "075",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "phone": "+39 066875706",
+        "website": "http://www.075roma.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839357,
+          41.8879519
+        ]
+      },
+      "id": "node/3217327590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3554607395",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "86",
+        "addr:postcode": "00184",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Ragno d'Oro",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 4882003",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492441,
+          41.8949731
+        ]
+      },
+      "id": "node/3554607395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3633354808",
+        "amenity": "cafe",
+        "name": "La Biga al Colosseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4926515,
+          41.8915086
+        ]
+      },
+      "id": "node/3633354808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781269004",
+        "addr:housenumber": "49",
+        "addr:street": "Via degli Zingari",
+        "amenity": "cafe",
+        "name": "Libro Divino",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4922245,
+          41.8951986
+        ]
+      },
+      "id": "node/3781269004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781269005",
+        "addr:housenumber": "1",
+        "addr:street": "Via dei Serpenti",
+        "amenity": "cafe",
+        "name": "Daruma Sushi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4905821,
+          41.8949696
+        ]
+      },
+      "id": "node/3781269005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809845157",
+        "addr:city": "Roma",
+        "addr:housenumber": "102",
+        "addr:postcode": "00184",
+        "addr:street": "Via Giovanni Lanza",
+        "amenity": "restaurant",
+        "check_date": "2025-07-17",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Sapori e Delizie",
+        "opening_hours": "We-Mo 12:30-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.498925,
+          41.8949097
+        ]
+      },
+      "id": "node/3809845157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809848207",
+        "addr:city": "Roma",
+        "addr:housenumber": "268",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "La Base",
+        "opening_hours": "Mo-Su 12:00-05:00",
+        "website": "http://www.labaseristorante.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4900761,
+          41.8937525
+        ]
+      },
+      "id": "node/3809848207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909073672",
+        "addr:housenumber": "165",
+        "addr:street": "Via dei Serpenti",
+        "amenity": "cafe",
+        "name": "La Licata",
+        "website": "https://barlalicata.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490883,
+          41.8946396
+        ]
+      },
+      "id": "node/3909073672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4086844227",
+        "addr:city": "Roma",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "00184",
+        "addr:street": "Via Mecenate",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria Morgana",
+        "website": "https://www.trattoriamorgana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5006929,
+          41.8930626
+        ]
+      },
+      "id": "node/4086844227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4283577498",
+        "amenity": "restaurant",
+        "email": "prenota@tavernadeiquaranta.com",
+        "name": "La Taverna dei Quaranta",
+        "phone": "+39 067000550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4943826,
+          41.8879516
+        ]
+      },
+      "id": "node/4283577498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4283615592",
+        "addr:city": "Roma",
+        "addr:housenumber": "6",
+        "addr:postcode": "00184",
+        "addr:street": "Via Capo d'Africa",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Osteria Angelino dal 1899",
+        "opening_hours": "11:00-24:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4943005,
+          41.8890198
+        ]
+      },
+      "id": "node/4283615592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340336304",
+        "addr:housenumber": "36",
+        "addr:street": "Via degli Zingari",
+        "amenity": "cafe",
+        "name": "Libreria Caffè Bohemien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4927403,
+          41.895285
+        ]
+      },
+      "id": "node/4340336304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346348114",
+        "addr:housenumber": "2-6",
+        "addr:postcode": "00184",
+        "addr:street": "Largo Corrado Ricci",
+        "amenity": "restaurant",
+        "name": "Massenzio Ai Fori",
+        "phone": "+39 06 6790706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883283,
+          41.8936003
+        ]
+      },
+      "id": "node/4346348114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367948894",
+        "addr:housenumber": "80",
+        "addr:postcode": "00184",
+        "addr:street": "Via delle Terme di Tito",
+        "amenity": "pub",
+        "brand": "BrewDog",
+        "brand:wikidata": "Q911367",
+        "brand:wikipedia": "en:BrewDog",
+        "name": "BrewDog Roma",
+        "name:en": "BrewDog Rome",
+        "name:it": "BrewDog Roma",
+        "opening_hours": "Su-Th 12:00-01:00; Fr-Sa 12 : 00-02 : 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4929546,
+          41.8917617
+        ]
+      },
+      "id": "node/4367948894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4390242293",
+        "addr:housenumber": "3",
+        "addr:postcode": "00184",
+        "addr:street": "Via dell'Angeletto",
+        "amenity": "restaurant",
+        "name": "Gli Angeletti",
+        "name:it": "Gli Angeletti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912917,
+          41.8948062
+        ]
+      },
+      "id": "node/4390242293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417002391",
+        "addr:housenumber": "5",
+        "addr:street": "Via del Colosseo",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "iarithevino@hotmail.com",
+        "internet_access": "wlan",
+        "name": "Iari the Vino",
+        "name:it": "Iari the Vino",
+        "name:ru": "ресторан Iari the Vino",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "phone": "+39 06 69191069",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4893338,
+          41.892913
+        ]
+      },
+      "id": "node/4417002391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418927289",
+        "addr:housenumber": "10",
+        "addr:postcode": "00184",
+        "addr:street": "Via Ostilia",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "email": "fabio@landgroup.it",
+        "internet_access": "wlan",
+        "name": "Pane&Vino",
+        "name:en": "Pane&Vino",
+        "name:it": "Pane&Vino",
+        "opening_hours": "Mo-Su 10:30-17:30",
+        "operator": "Fabio",
+        "website": "http://Facebook.com/colosseopanevino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4953218,
+          41.8891411
+        ]
+      },
+      "id": "node/4418927289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453659542",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "207",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "cafe",
+        "cuisine": "breakfast",
+        "indoor_seating": "yes",
+        "name": "Venezia",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4931693,
+          41.8947745
+        ]
+      },
+      "id": "node/4453659542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455036143",
+        "amenity": "restaurant",
+        "check_date": "2025-05-01",
+        "coffee:brand": "Profili",
+        "cuisine": "pizza;italian;steak_house",
+        "name": "Chicco di grano",
+        "phone": "+39 06 47825033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4913558,
+          41.8951657
+        ]
+      },
+      "id": "node/4455036143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455036144",
+        "addr:city": "Roma",
+        "addr:postcode": "00184",
+        "amenity": "cafe",
+        "name": "Civico 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911788,
+          41.8951228
+        ]
+      },
+      "id": "node/4455036144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455036153",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "66",
+        "addr:postcode": "00184",
+        "addr:street": "Via Urbana",
+        "amenity": "restaurant",
+        "name": "Osteria della Suburra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4931892,
+          41.8951353
+        ]
+      },
+      "id": "node/4455036153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4556016298",
+        "addr:housenumber": "4",
+        "addr:postcode": "00184",
+        "addr:street": "Via Ostilia",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "facebook": "Divin-Ostilia-Wine-Bar-847778075304057",
+        "lgbtq": "no",
+        "name": "Divin Ostilia",
+        "name:it": "Divin Ostilia",
+        "opening_hours": "Mo-Su 12:00-01:00",
+        "operator": "Anastasio Stefano",
+        "ref:vatin": "IT08631471003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4954434,
+          41.8895287
+        ]
+      },
+      "id": "node/4556016298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4605604305",
+        "addr:city": "Roma",
+        "addr:housenumber": "112",
+        "addr:postcode": "00184",
+        "addr:street": "Via del Boschetto",
+        "amenity": "restaurant",
+        "cuisine": "pasta;salad;piadina",
+        "name": "Pasta Imperiale",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "Pasta Imperiale Monti Srl.",
+        "phone": "+39 06 8913 1619",
+        "ref:vatin": "IT13207361000",
+        "takeaway": "yes",
+        "website": "https://www.pastaimperiale.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4912643,
+          41.8953691
+        ]
+      },
+      "id": "node/4605604305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692454589",
+        "amenity": "cafe",
+        "name": "Analemma Café Aperitivo",
+        "name:it": "Analemma Café Aperitivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4916356,
+          41.8946899
+        ]
+      },
+      "id": "node/4692454589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4703878792",
+        "addr:housenumber": "48",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "name": "Volare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4957849,
+          41.889572
+        ]
+      },
+      "id": "node/4703878792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715499307",
+        "amenity": "cafe",
+        "name": "Celio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941146,
+          41.8885523
+        ]
+      },
+      "id": "node/4715499307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715503446",
+        "amenity": "cafe",
+        "name": "Colosseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968642,
+          41.8892326
+        ]
+      },
+      "id": "node/4715503446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715503471",
+        "amenity": "cafe",
+        "name": "Gavi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4968346,
+          41.8891046
+        ]
+      },
+      "id": "node/4715503471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4718393101",
+        "addr:housenumber": "10",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "name": "Vecchia Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4916743,
+          41.8947646
+        ]
+      },
+      "id": "node/4718393101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4725631490",
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Gustando Roma",
+        "name:it": "Gustando Roma",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4887178,
+          41.8933142
+        ]
+      },
+      "id": "node/4725631490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727896391",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "57",
+        "addr:postcode": "00184",
+        "addr:street": "Via Urbana",
+        "amenity": "restaurant",
+        "name": "Sciué Sciué"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4934009,
+          41.8953982
+        ]
+      },
+      "id": "node/4727896391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4733710159",
+        "addr:housenumber": "66;67",
+        "addr:postcode": "00186",
+        "addr:street": "Via Leonina",
+        "amenity": "pub",
+        "name": "Finnegan Irish Pub",
+        "operator": "Il Trifoglio SaS. di Zecchino Fabio & C.",
+        "phone": "+39 06 4747026",
+        "ref:vatin": "IT05268961009",
+        "restaurant:type:it": "irish_pub",
+        "theme": "irish",
+        "website": "https://www.finneganpub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4919419,
+          41.8947342
+        ]
+      },
+      "id": "node/4733710159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744488121",
+        "addr:housenumber": "90",
+        "addr:postcode": "00184",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "cuisine": "italian;italian_pizza;burger",
+        "diet:vegetarian": "yes",
+        "name": "Wanted",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4911007,
+          41.8945956
+        ]
+      },
+      "id": "node/4744488121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4817311427",
+        "addr:housenumber": "8",
+        "addr:street": "Via di S. Giovanni in Laterano",
+        "amenity": "restaurant",
+        "contact:email": "info@comingout.it",
+        "contact:facebook": "https://www.facebook.com/comingoutRoma/",
+        "contact:instagram": "https://www.instagram.com/comingoutroma/",
+        "contact:phone": "+39 06 700 9871; +39 351 955 7072",
+        "contact:website": "https://www.comingout.it/",
+        "lgbtq": "primary",
+        "name": "Coming Out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4944125,
+          41.8900128
+        ]
+      },
+      "id": "node/4817311427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4847966677",
+        "amenity": "cafe",
+        "diet:gluten_free": "yes",
+        "name": "Caffè della Studente",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4932322,
+          41.8923045
+        ]
+      },
+      "id": "node/4847966677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4906115421",
+        "amenity": "restaurant",
+        "check_date": "2023-12-03",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Osteria Circo",
+        "name:it": "Osteria Circo",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48424,
+          41.8877149
+        ]
+      },
+      "id": "node/4906115421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937453321",
+        "addr:housenumber": "95",
+        "addr:postcode": "00184",
+        "addr:street": "Via della Madonna dei Monti",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Alle Carrette",
+        "name:en": "Alle Carrette",
+        "name:es": "Alle Carrette",
+        "name:it": "Alle Carrette",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 679 2770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4887171,
+          41.893964
+        ]
+      },
+      "id": "node/4937453321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999883421",
+        "amenity": "cafe",
+        "name:en": "Ice Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.491159,
+          41.8946458
+        ]
+      },
+      "id": "node/4999883421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5107320638",
+        "addr:housenumber": "17",
+        "addr:street": "Via del Buon Consiglio",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ristorante Cleto",
+        "opening_hours": "Mo-Su 12:00-23:30",
+        "phone": "+39 06 6994 1507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4897105,
+          41.8934212
+        ]
+      },
+      "id": "node/5107320638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238057161",
+        "addr:city": "Roma",
+        "addr:housenumber": "2/4",
+        "addr:postcode": "00184",
+        "addr:street": "Via Monte Polacco",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Cuoco e Camicia",
+        "website": "https://www.cuocoecamicia.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4937406,
+          41.8944391
+        ]
+      },
+      "id": "node/5238057161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5245720411",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "37/b",
+        "addr:postcode": "00185",
+        "addr:street": "Via dello Statuto",
+        "amenity": "cafe",
+        "email": "barpasticceriadamore@gmail.com",
+        "indoor_seating": "yes",
+        "name": "D'Amore",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 44363205",
+        "website": "https://pasticceria-damore.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5007867,
+          41.8950773
+        ]
+      },
+      "id": "node/5245720411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5293911723",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "256a",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Afrish",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4923353,
+          41.8943062
+        ]
+      },
+      "id": "node/5293911723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339247221",
+        "addr:housenumber": "84",
+        "addr:street": "Via Leonina",
+        "amenity": "cafe",
+        "cuisine": "italian_pizza",
+        "name": "Pizzeria Leonina Snc",
+        "name:en": "Pizzeria Leonina",
+        "phone": "+39 06 48277 44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4913222,
+          41.894647
+        ]
+      },
+      "id": "node/5339247221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5365793336",
+        "amenity": "restaurant",
+        "lgbtq": "welcome",
+        "name": "Ristoro Della Salute",
+        "website": "https://www.ristorantecolosseo.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942155,
+          41.8898614
+        ]
+      },
+      "id": "node/5365793336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506371670",
+        "addr:city": "Roma",
+        "addr:housenumber": "1",
+        "addr:postcode": "00184",
+        "addr:street": "Via del Colosseo",
+        "addr:unit": "c",
+        "amenity": "pub",
+        "brewery": "yes",
+        "email": "info@shamrockpubroma.it",
+        "indoor_seating": "yes",
+        "name": "Shamrock Pub Roma",
+        "opening_hours": "Mo-Su 12:00-02:00",
+        "operator": "SHAMROCK SAS di Alessandro Corbellini e C.",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 679 1729",
+        "ref:vatin": "IT05595481002",
+        "website": "https://www.shamrockpubroma.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4889243,
+          41.8932281
+        ]
+      },
+      "id": "node/5506371670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506371671",
+        "addr:housenumber": "23",
+        "addr:street": "Via del Buon Consiglio",
+        "addr:unit": "a",
+        "amenity": "restaurant",
+        "cuisine": "regional;italian",
+        "indoor_seating": "yes",
+        "name": "La Nuova Piazzetta",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 699 1640",
+        "website": "lanuovapiazzetta.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.489175,
+          41.8933649
+        ]
+      },
+      "id": "node/5506371671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506371672",
+        "addr:housenumber": "1",
+        "addr:street": "Via del Cardello",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Al Cardello",
+        "opening_hours": "Mo-Su 11:30-24:00",
+        "phone": "+39 06 474 5259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4899596,
+          41.8932211
+        ]
+      },
+      "id": "node/5506371672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506371673",
+        "addr:housenumber": "13",
+        "addr:street": "Via del Cardello",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Le Terme del Colosseo",
+        "opening_hours": "Mo-Su 11:30-15:00, 18:00-23:30",
+        "phone": "+39 06 483616",
+        "website": "letermedelcolosseo.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4899958,
+          41.8931283
+        ]
+      },
+      "id": "node/5506371673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5557340560",
+        "addr:city": "Roma",
+        "addr:housenumber": "18",
+        "addr:postcode": "00184",
+        "addr:street": "Largo della Polveriera",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;sandwich",
+        "diet:vegetarian": "yes",
+        "name": "Polveriera",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4929574,
+          41.8928315
+        ]
+      },
+      "id": "node/5557340560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611906441",
+        "amenity": "cafe",
+        "name": "Da Nunzia Al Colle Oppio",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.497903,
+          41.8909789
+        ]
+      },
+      "id": "node/5611906441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5762607353",
+        "addr:housenumber": "125",
+        "addr:postcode": "00184",
+        "addr:street": "Via Labicana",
+        "amenity": "restaurant",
+        "name": "Aroma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4955298,
+          41.890136
+        ]
+      },
+      "id": "node/5762607353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5768796753",
+        "addr:city": "Roma",
+        "addr:housenumber": "1",
+        "addr:postcode": "00184",
+        "addr:street": "Largo Gaetana Agnesi",
+        "amenity": "cafe",
+        "name": "Squisito Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4909956,
+          41.8915557
+        ]
+      },
+      "id": "node/5768796753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5853362486",
+        "addr:city": "Roma",
+        "addr:housenumber": "293",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "cuisine": "regional;italian",
+        "name": "Trattoria da Valentino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4897248,
+          41.8938775
+        ]
+      },
+      "id": "node/5853362486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5853362488",
+        "addr:city": "Roma",
+        "addr:housenumber": "291",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "name": "Bianco pepe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4897804,
+          41.8938915
+        ]
+      },
+      "id": "node/5853362488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5983727095",
+        "addr:housenumber": "88",
+        "addr:street": "Via di San Teodoro",
+        "amenity": "cafe",
+        "name": "Santeo",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "phone": "+39 06 69920945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4832886,
+          41.8884173
+        ]
+      },
+      "id": "node/5983727095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095666220",
+        "amenity": "cafe",
+        "name": "Art Cafe",
+        "opening_hours": "Mo-Fr 07:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4836902,
+          41.8880651
+        ]
+      },
+      "id": "node/6095666220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124956489",
+        "addr:housenumber": "73",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "La Boccaccia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4917003,
+          41.8947079
+        ]
+      },
+      "id": "node/6124956489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6330664785",
+        "amenity": "restaurant",
+        "name": "Ostaria da Nerone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4932583,
+          41.8923548
+        ]
+      },
+      "id": "node/6330664785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6517776485",
+        "addr:housenumber": "59a",
+        "addr:postcode": "00184",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "cuisine": "seafood;mediterranean;pasta;italian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "ristoranteisidoro@gmail.com",
+        "indoor_seating": "yes",
+        "name": "Ristorante Isidoro",
+        "opening_hours": "Tu-Fr 00:00-23:00; Sa 19:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+39067008266",
+        "website": "https://www.hostariaisidoro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4983734,
+          41.8889275
+        ]
+      },
+      "id": "node/6517776485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6795359170",
+        "amenity": "cafe",
+        "check_date": "2023-05-05",
+        "name": "Bar Licenza 93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4974613,
+          41.8952679
+        ]
+      },
+      "id": "node/6795359170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6863307585",
+        "amenity": "cafe",
+        "lgbtq": "welcome",
+        "name": "Salotto del colosseo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4952411,
+          41.8897622
+        ]
+      },
+      "id": "node/6863307585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992316685",
+        "amenity": "restaurant",
+        "name": "RoYaL Art Cafè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4925537,
+          41.8915062
+        ]
+      },
+      "id": "node/6992316685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7082306423",
+        "addr:city": "Roma",
+        "addr:housenumber": "88",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "internet_access": "no",
+        "name": "Trattoria Pizzeria Luzzi",
+        "opening_hours": "Th-Tu 12:00-24:00",
+        "oven": "wood_fired",
+        "phone": "+39 06 7096332",
+        "smoking": "no",
+        "start_date": "1945",
+        "website": "https://trattorialuzzi.it/il-nostro-menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4966238,
+          41.8892927
+        ]
+      },
+      "id": "node/7082306423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785070630",
+        "addr:housenumber": "66",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "email": "pasqualinoalcolosseo@gmail.it",
+        "lgbtq": "welcome",
+        "name": "Antica Trattoria Pasqualino Al Colosseo",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+39 06 700 45 76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4951477,
+          41.8893426
+        ]
+      },
+      "id": "node/7785070630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7896481085",
+        "amenity": "cafe",
+        "name": "Coco Caffe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4925672,
+          41.8924968
+        ]
+      },
+      "id": "node/7896481085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8917220218",
+        "addr:housenumber": "93",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "restaurant",
+        "name": "Shamrock",
+        "website": "https://www.shamrockrestaurant.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4972468,
+          41.88899
+        ]
+      },
+      "id": "node/8917220218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9590344617",
+        "addr:housenumber": "22",
+        "addr:street": "Via Ostilia",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Contrario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4952577,
+          41.8889491
+        ]
+      },
+      "id": "node/9590344617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9655096717",
+        "addr:city": "Roma",
+        "addr:housenumber": "8",
+        "addr:postcode": "00184",
+        "addr:street": "Piazza di San Martino ai Monti",
+        "amenity": "cafe",
+        "name:en": "Drink Kong",
+        "opening_hours": "Mo-Su 18:30-02:00",
+        "phone": "+39 06 2348 8666",
+        "website": "https://www.drinkkong.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4978655,
+          41.8951436
+        ]
+      },
+      "id": "node/9655096717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9775950447",
+        "addr:housenumber": "30",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "name": "Pizzeria Bisteccheria",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4949427,
+          41.8898381
+        ]
+      },
+      "id": "node/9775950447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9801403645",
+        "addr:housenumber": "38",
+        "amenity": "restaurant",
+        "check_date": "2023-05-06",
+        "cuisine": "pizza;italian",
+        "diet:vegetarian": "yes",
+        "email": "info@pizzaforumroma.it",
+        "indoor_seating": "yes",
+        "level": "0",
+        "lgbtq": "welcome",
+        "name": "Pizza Forum",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+390677591158",
+        "website": "https://www.pizzaforumroma.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4951002,
+          41.8897943
+        ]
+      },
+      "id": "node/9801403645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9801404485",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Bisteccheria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4950175,
+          41.889823
+        ]
+      },
+      "id": "node/9801404485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9802476355",
+        "addr:housenumber": "23",
+        "addr:street": "Via Ostilla",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Bocconcino",
+        "website": "https://www.ilbocconcino.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4949582,
+          41.8887061
+        ]
+      },
+      "id": "node/9802476355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9834746517",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "215",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Benso",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4920544,
+          41.8944638
+        ]
+      },
+      "id": "node/9834746517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913430144",
+        "addr:city": "Roma",
+        "addr:postcode": "00184",
+        "addr:street": "Via San Giovanni in Laterano, 88",
+        "amenity": "restaurant",
+        "changing_table": "no",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "4 e 4'Otto by \"Luzzi\" dal 1945",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "phone": "+39 06 709 6332",
+        "takeaway": "no",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "website": "https://www.trattorialuzzi.it/4e4otto-by-luzzi/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964535,
+          41.8889445
+        ]
+      },
+      "id": "node/9913430144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10701088905",
+        "addr:housenumber": "36",
+        "addr:street": "Via Merulana",
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop;italian",
+        "email": "info@wearebranca.com",
+        "name": "Branca",
+        "phone": "+39 06 8952 8967",
+        "website": "https://www.wearebranca.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5005185,
+          41.8948163
+        ]
+      },
+      "id": "node/10701088905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10704384805",
+        "addr:housenumber": "7",
+        "addr:postcode": "00184",
+        "addr:street": "Via Mecenate",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza;pizza",
+        "name": "Monti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5008463,
+          41.8932055
+        ]
+      },
+      "id": "node/10704384805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10715995943",
+        "addr:housenumber": "75",
+        "addr:street": "Via dei Cerchi",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@ristoranteadhoc.com",
+        "name": "Ad Hoc Circo Massimo",
+        "opening_hours": "Th off",
+        "phone": "+39 06 45619343",
+        "website": "https://www.ristoranteadhoc.com/ad-hoc-circo-massimo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4841392,
+          41.8878406
+        ]
+      },
+      "id": "node/10715995943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10871493090",
+        "amenity": "cafe",
+        "check_date": "2023-05-05",
+        "name": "Carrè Monti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4983277,
+          41.8949051
+        ]
+      },
+      "id": "node/10871493090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10873364279",
+        "addr:housenumber": "100",
+        "amenity": "restaurant",
+        "name": "Giulia & Sisto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4971954,
+          41.889128
+        ]
+      },
+      "id": "node/10873364279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10973562005",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "bar": "no",
+        "check_date": "2024-01-02",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "level": "0",
+        "name": "Ce stamo a pensa",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4913828,
+          41.8946645
+        ]
+      },
+      "id": "node/10973562005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11088710845",
+        "addr:city": "Roma",
+        "addr:housenumber": "30",
+        "addr:postcode": "00184",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "cuisine": "chinese;japanese",
+        "name": "巴师傅川菜",
+        "name:en": "Tín House",
+        "note": "Cucina del Sichuan",
+        "phone": "+393319899961",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4924846,
+          41.8949836
+        ]
+      },
+      "id": "node/11088710845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11266309373",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "256",
+        "addr:postcode": "00185",
+        "addr:street": "Via Merulana",
+        "amenity": "restaurant",
+        "name": "Lo scoglio di Frisio",
+        "phone": "+39 06 4872765",
+        "website": "https://www.scogliodifrisio.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4998259,
+          41.895418
+        ]
+      },
+      "id": "node/11266309373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288215221",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "242",
+        "addr:postcode": "00185",
+        "addr:street": "Via Merulana",
+        "amenity": "cafe",
+        "name": "Bar Mecenate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5010084,
+          41.8933488
+        ]
+      },
+      "id": "node/11288215221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11358099248",
+        "amenity": "cafe",
+        "name": "Espresso & Co"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4838125,
+          41.8942492
+        ]
+      },
+      "id": "node/11358099248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11486602264",
+        "addr:floor": "G",
+        "addr:housenumber": "28A",
+        "addr:street": "Via Marco Aurelio",
+        "amenity": "cafe",
+        "check_date": "2024-01-04",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Antica Roma",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4958862,
+          41.8881975
+        ]
+      },
+      "id": "node/11486602264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795539296",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4941693,
+          41.8890436
+        ]
+      },
+      "id": "node/11795539296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795541829",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4954437,
+          41.8887872
+        ]
+      },
+      "id": "node/11795541829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795557072",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4946967,
+          41.888834
+        ]
+      },
+      "id": "node/11795557072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11824587251",
+        "addr:housenumber": "81",
+        "addr:street": "Via Leonina",
+        "amenity": "restaurant",
+        "name": "Ce stamo a pensà",
+        "opening_hours": "Mo-Th, Su 10:00-00:00; Fr, Sa 11:30-02:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4914011,
+          41.894662
+        ]
+      },
+      "id": "node/11824587251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12075903105",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizzeria della Madonna dei Monti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4881901,
+          41.893855
+        ]
+      },
+      "id": "node/12075903105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12174641901",
+        "addr:housenumber": "6",
+        "addr:postcode": "00184",
+        "addr:street": "Via di San Giovanni in Laterano",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza",
+        "name": "Antica DOMUS",
+        "outdoor_seating": "no",
+        "phone": "067001638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4943293,
+          41.8900303
+        ]
+      },
+      "id": "node/12174641901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12175129402",
+        "addr:housenumber": "37/A",
+        "addr:postcode": "00184",
+        "addr:street": "Largo Corrado Ricci",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "internet_access": "wlan",
+        "name": "il Girdiano ai fori",
+        "outdoor_seating": "yes",
+        "phone": "3454497922",
+        "self_service": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4881088,
+          41.893065
+        ]
+      },
+      "id": "node/12175129402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12278627701",
+        "addr:housenumber": "21",
+        "addr:postcode": "00184",
+        "addr:street": "Via Celimontana",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Contratio Bistrot",
+        "opening_hours": "Mo-Su 12:00-14:30,19:00-22:30",
+        "website": "https://www.thefork.it/ristorante/contrario-bistrot-r751935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4961582,
+          41.8882075
+        ]
+      },
+      "id": "node/12278627701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12640825738",
+        "amenity": "cafe",
+        "indoor_seating": "no",
+        "name": "Caffeteria del Parco",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4869219,
+          41.8925439
+        ]
+      },
+      "id": "node/12640825738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12641308483",
+        "amenity": "restaurant",
+        "name": "La Prezzemolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4890625,
+          41.8930503
+        ]
+      },
+      "id": "node/12641308483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12753013255",
+        "addr:city": "Roma",
+        "addr:housenumber": "33",
+        "addr:street": "Via Leonina",
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "name": "Techi Bubble Tea",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.492566,
+          41.8950141
+        ]
+      },
+      "id": "node/12753013255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12971341002",
+        "amenity": "restaurant",
+        "name": "Citta in fiore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4903926,
+          41.8938201
+        ]
+      },
+      "id": "node/12971341002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13333846301",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4892962,
+          41.8929299
+        ]
+      },
+      "id": "node/13333846301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13401519294",
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "252",
+        "addr:postcode": "00184",
+        "addr:street": "Via Cavour",
+        "amenity": "cafe",
+        "name": "Imperial bistrot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4928537,
+          41.894442
+        ]
+      },
+      "id": "node/13401519294"
+    }
+  ]
+}
