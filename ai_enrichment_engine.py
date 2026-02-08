@@ -15,7 +15,8 @@ def generate_ai_description(name, category, tags):
         return f"Experience the best local service at {name}, a premier {category} known for its welcoming atmosphere."
 
 # 2. Connect to Supabase
-conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:kinGsy09!12040@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
+# replace with the password you created, follow the steps in README.md to copy the URI
+conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:[PASSWORD]@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
 cur = conn.cursor()
 
 # 3. Fetch rows - Ensure you include all needed columns in the SELECT statement

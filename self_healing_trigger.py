@@ -2,7 +2,8 @@ import psycopg2
 import datetime
 
 # 1. Connect to your DB
-conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:kinGsy09!12040@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
+# replace with the password you created, follow the steps in README.md to copy the URI
+conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:[PASSWORD]@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
 cur = conn.cursor()
 
 def self_heal_database(business_name, new_social_text):

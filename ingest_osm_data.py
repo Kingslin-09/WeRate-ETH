@@ -11,7 +11,8 @@ with open(file_path, 'r', encoding='utf-8') as f:
 
 # 3. CONNECT (Use your Supabase URI)
 # Format: postgresql://postgres:[PASSWORD]@db.[REF].supabase.co:5432/postgres
-conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:kinGsy09!12040@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
+# Replace the URI with the password you used while creating
+conn = psycopg2.connect("postgresql://postgres.ofzgbwogusqavvnizkny:[PASSWORD]@aws-1-eu-west-2.pooler.supabase.com:6543/postgres")
 cur = conn.cursor()
 
 print(f"Starting import of {len(data['features'])} items...")
